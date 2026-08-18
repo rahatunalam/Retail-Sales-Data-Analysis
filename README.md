@@ -82,5 +82,4 @@ Regional Revenue  = SUMIFS(Revenue, Region, "Dhaka")
 ## 👤 Author
 
 **Rahat**
-Final-year CSE student, Bangladesh University of Business & Technology (BUBT)
-[GitHub](https://github.com/rahatunalam)
+
